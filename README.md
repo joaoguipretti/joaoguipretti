@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Guilherme Pretti Genari, tenho 22 anos e sou de Santos. Atualmente, atualmente trabalho com Análise e Desenvolvimento de Sistemas na ABA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[JoaoGuiDev](https://www.youtube.com/@JoaoguiDev)", onde ensino a criar projetos Web e Back-end.
+Me chamo João Guilherme Pretti Genari, tenho 22 anos e sou de Santos. Atualmente, atualmente trabalho com Análise e Desenvolvimento de Sistemas na ABA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[JoaoGuiDev]""(https://www.youtube.com/@JoaoguiDev)", onde ensino a criar projetos Web e Back-end.
 
 <p align="left">
     <a href="https://www.youtube.com/@lJoaoguiDev?sub_confirmation=1">
@@ -30,7 +30,7 @@ Me chamo João Guilherme Pretti Genari, tenho 22 anos e sou de Santos. Atualment
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+             src="https://custom-icon-badges.demolab.com/github/followers/joaoguipretti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
