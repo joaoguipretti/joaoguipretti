@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Guilherme Pretti
 
-**`Desenvolvedoro FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo João Guilherme Pretti Genari, tenho 22 anos e sou de Santos. Atualmente, atualmente trabalho com Análise e Desenvolvimento de Sistemas na ABA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[JoaoGuiDev](https://www.youtube.com/@JoaoguiDev)", onde ensino a criar projetos Web e Back-end.
 
@@ -39,15 +39,6 @@ Me chamo João Guilherme Pretti Genari, tenho 22 anos e sou de Santos. Atualment
 
 ### 🤖 Linguagens e Tecnologias
 
-
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
 <img 
     align="left" 
     alt="React"
@@ -55,14 +46,6 @@ Me chamo João Guilherme Pretti Genari, tenho 22 anos e sou de Santos. Atualment
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
@@ -93,8 +76,8 @@ Me chamo João Guilherme Pretti Genari, tenho 22 anos e sou de Santos. Atualment
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
