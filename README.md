@@ -47,9 +47,9 @@ I'm passionate about coding and enjoy contributing to the developer community. I
 
 ### 📊 Stats
 
-![joaoguipretti GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![joaoguipretti GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguipretti&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joaoguipretti&theme=gruvbox&border_radius=4.5) 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=joaoguipretti&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
