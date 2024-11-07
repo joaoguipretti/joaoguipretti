@@ -41,7 +41,7 @@ I'm passionate about coding and enjoy contributing to the developer community. I
 [![How to DESTROY Developer Productivity (avoid at all costs)](https://ytcards.demolab.com/?id=vl6SQZWRaks&title=How+to+DESTROY+Developer+Productivity+%28avoid+at+all+costs%29&lang=en&timestamp=1725462064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=784 "How to DESTROY Developer Productivity (avoid at all costs)")](https://www.youtube.com/watch?v=vl6SQZWRaks)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<!--[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
  -->
 #
 
@@ -49,7 +49,7 @@ I'm passionate about coding and enjoy contributing to the developer community. I
 
 ![joaoguipretti GitHub stats]
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=joaoguipretti&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=joaoguipretti&theme=gruvbox&border_radius=4.5) 
 
 #
 <!--
