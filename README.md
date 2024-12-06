@@ -5,7 +5,7 @@
 Hi, I'm João Guilherme, a Full-Stack Developer specializing in React, Node, and Java.
 I'm passionate about coding and enjoy contributing to the developer community. I also help beginner developers through my YouTube channel, where I share insights and tips to support their learning journey. Every project I build is crafted from the ground up, with careful planning, thoughtful design, and a focus on solving real-world problems through code.
 
-   <p align="left">
+<!--   <p align="left">
       <a href="https://www.youtube.com/@JoaoguiDev">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@JoaoguiDev">
@@ -14,7 +14,7 @@ I'm passionate about coding and enjoy contributing to the developer community. I
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/joaoguipretti?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   </p> -->
 
 ---
 
