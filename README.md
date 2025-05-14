@@ -2,7 +2,7 @@
 
 **`Developer FullStack (Developer/Gamer)`**
 
-Hi, I'm João Guilherme, a Full-Stack Developer specializing in React, Node, and Java.
+Hi, I'm João Guilherme, a Full-Stack Developer specializing in React, Node, and Angular.
 I'm passionate about coding and enjoy contributing to the developer community. I also help beginner developers through my YouTube channel, where I share insights and tips to support their learning journey. Every project I build is crafted from the ground up, with careful planning, thoughtful design, and a focus on solving real-world problems through code.
 
 <!--   <p align="left">
@@ -20,7 +20,7 @@ I'm passionate about coding and enjoy contributing to the developer community. I
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
